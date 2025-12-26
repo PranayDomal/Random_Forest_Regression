@@ -126,11 +126,11 @@ By prioritizing generalization over over-tuning and validating performance caref
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PranayDomal/Random_Forest_Regression.git
+git clone https://github.com/PranayDomal/Concrete_Compressive_Strength_Prediction.git
 ```
 2. Navigate to the folder:
 ```bash
-cd Random_Forest_Regression
+cd Concrete_Compressive_Strength_Prediction
 ```
 3. Run the notebook:
 ```bash
